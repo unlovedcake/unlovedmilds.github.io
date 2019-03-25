@@ -310,13 +310,13 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: url(../img/bg1.jpg) no-repeat top center;
+	background: url(../img/bg.jpg) no-repeat top center;
     background-size: cover;
     height: auto;
 }
 
 #intro.intro {
-	padding:10% 0 0 0;
+	padding:7% 0 0 0;
 }
 
 .intro .slogan {
